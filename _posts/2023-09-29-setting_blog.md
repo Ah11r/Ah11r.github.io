@@ -37,9 +37,9 @@ Upon clicking finish, you will be prompted to choose what components to install.
 ![img-description](/assets/img/jekyll/3.png)
 
 After it completes, initiate command prompt and run the following command to install all the dependencies
-````command prompt
+```
 gem install jekyll bundler
-````
+```
 
 ![img-description](/assets/img/jekyll/4.png)
 
