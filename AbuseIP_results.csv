@@ -1,0 +1,44 @@
+ipAddress,isPublic,ipVersion,isWhitelisted,abuseConfidenceScore,countryCode,usageType,isp,domain,hostnames,totalReports,numDistinctUsers,lastReportedAt
+ipAddress,isPublic,ipVersion,isWhitelisted,abuseConfidenceScore,countryCode,usageType,isp,domain,hostnames,totalReports,numDistinctUsers,lastReportedAt
+ipAddress,isPublic,ipVersion,isWhitelisted,abuseConfidenceScore,countryCode,usageType,isp,domain,hostnames,totalReports,numDistinctUsers,lastReportedAt,isTor
+204.79.197.200,True,4,False,1,US,Data Center/Web Hosting/Transit,Microsoft Corporation,microsoft.com,['a-0001.a-msedge.net'],1,1,2023-08-20T01:07:56+00:00,False
+13.107.21.200,True,4,False,1,US,Data Center/Web Hosting/Transit,Microsoft Corporation,microsoft.com,[],1,1,2023-09-22T15:01:23+00:00,False
+8.238.182.254,True,4,,0,FR,Fixed Line ISP,Level 3 Communications Ltd,level3.com,[],0,0,,False
+41.206.105.48,True,4,,0,MU,Data Center/Web Hosting/Transit,SEACOM Limited,seacom.mu,"['48.llns.105.206.41.in-addr.arpa', '48.105.206.41.delegations.llnw.net', 'https-41-206-105-48.saay.llnw.net']",0,0,,False
+93.184.221.240,True,4,False,2,GB,Content Delivery Network,EdgeCast NetBlk,edgecast.com,[],2,2,2023-08-24T09:00:01+00:00,False
+209.197.3.8,True,4,False,28,US,Content Delivery Network,StackPath LLC,stackpath.com,['vip0x008.map2.ssl.hwcdn.net'],18,10,2023-09-21T22:56:23+00:00,False
+ipAddress,isPublic,ipVersion,isWhitelisted,abuseConfidenceScore,countryCode,usageType,isp,domain,hostnames,totalReports,numDistinctUsers,lastReportedAt,isTor
+204.79.197.200,True,4,False,1,US,Data Center/Web Hosting/Transit,Microsoft Corporation,microsoft.com,['a-0001.a-msedge.net'],1,1,2023-08-20T01:07:56+00:00,False
+13.107.21.200,True,4,False,1,US,Data Center/Web Hosting/Transit,Microsoft Corporation,microsoft.com,[],1,1,2023-09-22T15:01:23+00:00,False
+8.238.182.254,True,4,,0,FR,Fixed Line ISP,Level 3 Communications Ltd,level3.com,[],0,0,,False
+41.206.105.48,True,4,,0,MU,Data Center/Web Hosting/Transit,SEACOM Limited,seacom.mu,"['48.llns.105.206.41.in-addr.arpa', '48.105.206.41.delegations.llnw.net', 'https-41-206-105-48.saay.llnw.net']",0,0,,False
+93.184.221.240,True,4,False,2,GB,Content Delivery Network,EdgeCast NetBlk,edgecast.com,[],2,2,2023-08-24T09:00:01+00:00,False
+209.197.3.8,True,4,False,28,US,Content Delivery Network,StackPath LLC,stackpath.com,['vip0x008.map2.ssl.hwcdn.net'],18,10,2023-09-21T22:56:23+00:00,False
+ipAddress,isPublic,ipVersion,isWhitelisted,abuseConfidenceScore,countryCode,usageType,isp,domain,hostnames,totalReports,numDistinctUsers,lastReportedAt,isTor
+204.79.197.200,True,4,False,1,US,Data Center/Web Hosting/Transit,Microsoft Corporation,microsoft.com,['a-0001.a-msedge.net'],1,1,2023-08-20T01:07:56+00:00,False
+13.107.21.200,True,4,False,1,US,Data Center/Web Hosting/Transit,Microsoft Corporation,microsoft.com,[],1,1,2023-09-22T15:01:23+00:00,False
+8.238.182.254,True,4,,0,FR,Fixed Line ISP,Level 3 Communications Ltd,level3.com,[],0,0,,False
+41.206.105.48,True,4,,0,MU,Data Center/Web Hosting/Transit,SEACOM Limited,seacom.mu,"['48.llns.105.206.41.in-addr.arpa', '48.105.206.41.delegations.llnw.net', 'https-41-206-105-48.saay.llnw.net']",0,0,,False
+93.184.221.240,True,4,False,2,GB,Content Delivery Network,EdgeCast NetBlk,edgecast.com,[],2,2,2023-08-24T09:00:01+00:00,False
+209.197.3.8,True,4,False,28,US,Content Delivery Network,StackPath LLC,stackpath.com,['vip0x008.map2.ssl.hwcdn.net'],18,10,2023-09-21T22:56:23+00:00,False
+ipAddress,isPublic,ipVersion,isWhitelisted,abuseConfidenceScore,countryCode,usageType,isp,domain,hostnames,totalReports,numDistinctUsers,lastReportedAt,isTor
+204.79.197.200,True,4,False,1,US,Data Center/Web Hosting/Transit,Microsoft Corporation,microsoft.com,['a-0001.a-msedge.net'],1,1,2023-08-20T01:07:56+00:00,False
+13.107.21.200,True,4,False,1,US,Data Center/Web Hosting/Transit,Microsoft Corporation,microsoft.com,[],1,1,2023-09-22T15:01:23+00:00,False
+8.238.182.254,True,4,,0,FR,Fixed Line ISP,Level 3 Communications Ltd,level3.com,[],0,0,,False
+41.206.105.48,True,4,,0,MU,Data Center/Web Hosting/Transit,SEACOM Limited,seacom.mu,"['48.llns.105.206.41.in-addr.arpa', '48.105.206.41.delegations.llnw.net', 'https-41-206-105-48.saay.llnw.net']",0,0,,False
+93.184.221.240,True,4,False,1,GB,Content Delivery Network,EdgeCast NetBlk,edgecast.com,[],2,2,2023-08-24T09:00:01+00:00,False
+209.197.3.8,True,4,False,28,US,Content Delivery Network,StackPath LLC,stackpath.com,['vip0x008.map2.ssl.hwcdn.net'],18,10,2023-09-21T22:56:23+00:00,False
+ipAddress,isPublic,ipVersion,isWhitelisted,abuseConfidenceScore,countryCode,usageType,isp,domain,hostnames,totalReports,numDistinctUsers,lastReportedAt,isTor
+204.79.197.200,True,4,False,1,US,Data Center/Web Hosting/Transit,Microsoft Corporation,microsoft.com,['a-0001.a-msedge.net'],1,1,2023-08-20T01:07:56+00:00,False
+13.107.21.200,True,4,False,1,US,Data Center/Web Hosting/Transit,Microsoft Corporation,microsoft.com,[],1,1,2023-09-22T15:01:23+00:00,False
+8.238.182.254,True,4,,0,FR,Fixed Line ISP,Level 3 Communications Ltd,level3.com,[],0,0,,False
+41.206.105.48,True,4,,0,MU,Data Center/Web Hosting/Transit,SEACOM Limited,seacom.mu,"['48.llns.105.206.41.in-addr.arpa', '48.105.206.41.delegations.llnw.net', 'https-41-206-105-48.saay.llnw.net']",0,0,,False
+93.184.221.240,True,4,False,1,GB,Content Delivery Network,EdgeCast NetBlk,edgecast.com,[],2,2,2023-08-24T09:00:01+00:00,False
+209.197.3.8,True,4,False,28,US,Content Delivery Network,StackPath LLC,stackpath.com,['vip0x008.map2.ssl.hwcdn.net'],18,10,2023-09-21T22:56:23+00:00,False
+ipAddress,isPublic,ipVersion,isWhitelisted,abuseConfidenceScore,countryCode,usageType,isp,domain,hostnames,totalReports,numDistinctUsers,lastReportedAt,isTor
+204.79.197.200,True,4,False,1,US,Data Center/Web Hosting/Transit,Microsoft Corporation,microsoft.com,['a-0001.a-msedge.net'],1,1,2023-08-20T01:07:56+00:00,False
+13.107.21.200,True,4,False,1,US,Data Center/Web Hosting/Transit,Microsoft Corporation,microsoft.com,[],1,1,2023-09-22T15:01:23+00:00,False
+8.238.182.254,True,4,,0,FR,Fixed Line ISP,Level 3 Communications Ltd,level3.com,[],0,0,,False
+41.206.105.48,True,4,,0,MU,Data Center/Web Hosting/Transit,SEACOM Limited,seacom.mu,"['48.llns.105.206.41.in-addr.arpa', '48.105.206.41.delegations.llnw.net', 'https-41-206-105-48.saay.llnw.net']",0,0,,False
+93.184.221.240,True,4,False,1,GB,Content Delivery Network,EdgeCast NetBlk,edgecast.com,[],2,2,2023-08-24T09:00:01+00:00,False
+209.197.3.8,True,4,False,28,US,Content Delivery Network,StackPath LLC,stackpath.com,['vip0x008.map2.ssl.hwcdn.net'],18,10,2023-09-21T22:56:23+00:00,False
