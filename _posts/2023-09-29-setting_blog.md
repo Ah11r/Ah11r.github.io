@@ -11,16 +11,15 @@ There are many benefits - personal and professional - of having a personal blog.
 Here, I'll walk you through step-by-step on how to setup a blog on github pages.
 
 ### Content Breakdown
->Requirements
+>**_Requirements_**
 
->Installation
+>**_Installation_**
 
->Resources
+>**_Resources_**
 
 ### Requirements
 1. Github account - Sign up for a free account at [https://github.com/signup](https://github.com/signup)
 2. Visual Studio code - Download and install VScode from [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
-3. Git - Download and install Git from [https://git-scm.com/download/win](https://git-scm.com/download/win)
 
 ### Installation
 To setup a clean, customizable and responsive blog site, we will integrate Jekyll - a static site generator - with Github pages. 
@@ -81,7 +80,7 @@ When prompted, open the cloned repository. It should resemble the one below.
 ![img-description](/assets/img/jekyll/8c.png)
 _figure 8c_
 
-So far so good. Let's keep going on...
+So far so good. Let's continue...
 
 Within Visual Studio, open a terminal as guided below and run the following command. 
 ````powershell
