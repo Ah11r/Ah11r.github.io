@@ -28,16 +28,18 @@ First, let's install Ruby which enables Jekyll to run smoothly. Download Ruby+De
 
 ![img-description](/assets/img/jekyll/1.png)
 
-Install using the default setting and make sure the option to "Run 'ridk install" is checked. Click on Finish
+Install using the default setting and ensure the option to "Run 'ridk install" is checked. Click on Finish
+
 ![img-description](/assets/img/jekyll/2.png)
 
-Upon clicking finish, you will be prompted to choose what components to install. Click Enter and wait until it completes.
+Upon clicking finish, you will be prompted to choose what components to install. Click Enter.
+
 ![img-description](/assets/img/jekyll/3.png)
 
 After it completes, initiate command prompt and run the following command to install all the dependencies
 ````command prompt
 gem install jekyll bundler
-```````
+````
 
 ![img-description](/assets/img/jekyll/4.png)
 
