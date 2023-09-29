@@ -18,13 +18,13 @@ Here, I'll walk you through step-by-step on how to setup a blog on github pages.
 >Resources
 
 ### Requirements
-1. Github account - Sign up for a free account at https://github.com/signup
-2. Visual Studio code - Download and install VScode from https://code.visualstudio.com/download
-3. Git - Download and install Git from https://git-scm.com/download/win
+1. Github account - Sign up for a free account at [](https://github.com/signup)
+2. Visual Studio code - Download and install VScode from [](https://code.visualstudio.com/download)
+3. Git - Download and install Git from [](https://git-scm.com/download/win)
 
 ### Installation
 To setup a clean, customizable and responsive blog site, we will integrate Jekyll - a static site generator - with Github pages. 
-First, let's install Ruby which enables Jekyll to run smoothly. Download Ruby+Devkit 3.2.2-1(x64) (latest version at time of this writing) from https://rubyinstaller.org/downloads/
+First, let's install Ruby which enables Jekyll to run smoothly. Download Ruby+Devkit 3.2.2-1(x64) (latest version at time of this writing) from [](https://rubyinstaller.org/downloads/)
 
 ![img-description](/assets/img/jekyll/1.png)
 _figure 1_
