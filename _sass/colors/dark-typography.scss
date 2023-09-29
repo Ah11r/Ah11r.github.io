@@ -4,12 +4,12 @@
 
 @mixin dark-scheme {
   /* Framework color */
-  --main-bg: rgb(10, 10, 10);
-  --mask-bg: rgb(68, 69, 70);
+  --main-bg: rgb(32, 32, 32);
+  --mask-bg: rgb(70, 68, 68);
   --main-border-color: rgb(44, 45, 45);
 
   /* Common color */
-  --text-color: rgb(253, 254, 255);
+  --text-color: rgb(242, 243, 245);
   --text-muted-color: rgb(107, 116, 124);
   --heading-color: #cccccc;
   --blockquote-border-color: rgb(66, 66, 66);
@@ -43,11 +43,11 @@
   --avatar-border-color: rgb(206, 206, 206, 0.9);
 
   /* Topbar */
-  --topbar-bg: rgb(27, 27, 30, 0.64);
+  --topbar-bg: rgba(22, 22, 27, 0.877);
   --topbar-text-color: var(--text-color);
-  --search-wrapper-border-color: rgb(55, 55, 55);
+  --search-wrapper-border-color: rgb(194, 165, 165);
   --search-icon-color: rgb(100, 102, 105);
-  --input-focus-border-color: rgb(112, 114, 115);
+  --input-focus-border-color: rgb(50, 51, 51);
 
   /* Home page */
   --post-list-text-color: rgb(175, 176, 177);
