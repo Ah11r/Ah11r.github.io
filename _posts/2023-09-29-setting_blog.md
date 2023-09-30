@@ -1,7 +1,7 @@
 ---
 title: Blogging Guide 
 date: 2023-09-29 12:37:30 +0300
-categories: [Blog,Github Pages]
+categories: [Blog]
 tags: [blogging]
 ---
 # How to Set up a blog on Github pages
@@ -48,7 +48,7 @@ _figure 4_
 
 Congratulations for reaching this far! Let's go on...
 
-Next, proceed to https://github.com/cotes2020/chirpy-starter. Click on 'Use this template' to toggle the drop-down and select Create a new repository.
+Next, proceed to [https://github.com/cotes2020/chirpy-starter](https://github.com/cotes2020/chirpy-starter). Click on 'Use this template' to toggle the drop-down and select Create a new repository.
 
 ![img-description](/assets/img/jekyll/5.png)
 _figure 5_
@@ -150,6 +150,6 @@ In the next post, I will cover the following:
 >Troubleshooting
 ### Resources
 For further readings, please refer to the below resources
-1. https://jekyllrb.com/docs/installation/
-2. https://github.com/cotes2020/chirpy-starter
-3. https://github.com/cotes2020/jekyll-theme-chirpy#readme
+1. [https://jekyllrb.com/docs/installation/]
+2. [https://github.com/cotes2020/chirpy-starter]
+3. [https://github.com/cotes2020/jekyll-theme-chirpy#readme]
