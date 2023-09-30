@@ -64,7 +64,7 @@ Categories will help you organize and categorize your posts making navigation ea
 Tags on the other hand highlight the keywords or topics relevant to the particular post.  
 When using the Jekyll's chirpy theme, you can have up to two categories and as many tags as possible.  
 Example 
-```YAML
+```
 ---
 categories: [Laptops, Mobile Phones]
 tags: [hp, dell, lenovo, samsung, oppo, iphone] #tags should be in lowercase
@@ -80,7 +80,7 @@ To add an image, follow the syntax:
 ### Adding URLS
 In chirpy theme, you need to follow a certain syntax to make urls clickable. For example, https://www.google.com/ is not clickable but [https://www.google.com/](https://www.google.com/) is.  
 Syntax: 
-```YAML
+```
 [Google](https://www.google.com/)
 ``` 
 ### Summary
