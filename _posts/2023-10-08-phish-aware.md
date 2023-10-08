@@ -19,13 +19,16 @@ We are eight days into October and yes it is the Cybersecurity Awareness month a
 Most Phishing attacks happen via Emails. However, with the advancement in technology, it is worth noting other avenues of Phishing such as SMishing - SMS phishing, Vishing - voice phishing and others.
 
 Here are some of the things that you should check in an Email to help you spot phishers. 
-1. Does the sender’s e-mail address match the company it’s coming from? Look for little misspellings like pavpal.com or anazon.com. 
+```
+1. <u>Does the sender’s e-mail address match the company it’s coming from? Look for little misspellings like pavpal.com or anazon.com.</u>
+ 
 2. Does the email contain an offer that’s too good to be true?
 3. Is the greeting ambiguous or very generic?
 4. Is it a strange or abrupt business request?
 5. Does the email include language that’s urgent, alarming, or threatening?
 6. Is the email poorly crafted, writing riddled with misspellings and bad grammar?
 7. Does it include requests to send personal information?
+```
 
 If you answered Yes to any of the above, Kudos, you spotted a phishing email. What to do?  
 If such an email is delivered into your work Email inbox, DO NOT CLICK but notify your IT admin asap!  
