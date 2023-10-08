@@ -6,7 +6,9 @@ tags: [phishing,cybersecurityawareness]
 ---
 # Are you aware or will you be hooked?
 
-Lately, the ponds have enlarged and the number of fishermen have increased. By now you should have known what I am talking about - **Phishing**.  
+Lately, the ponds have enlarged and the number of fishermen have increased. By now you should have known what I am talking about - **Phishing**. 
+
+
 My question is one, are you aware or will you take the bait?   
 
 We are eight days into October and yes it is the Cybersecurity Awareness month and that is why I am here -  to make sure you do not get hooked.
