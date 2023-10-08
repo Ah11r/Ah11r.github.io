@@ -6,8 +6,10 @@ tags: [phishing,cybersecurityawareness]
 ---
 # Are you aware or will you be hooked?
 
-Lately, the ponds have enlarged and the number of fishermen have increased. By now you should have known what I am talking about - **Phishing**. 
-
+Lately, the ponds have enlarged and the number of fishermen have increased. By now you should have known what I am talking about - **Phishing**.  
+ 
+![img-description](/assets/img/phish/bg.png)
+_image courtesy of National CyberSecurity Centre_
 
 My question is one, are you aware or will you take the bait?   
 
