@@ -13,7 +13,7 @@ According to a [survey by DataSparkle](https://www.datasparkle.net/home/pc/en/re
 The number of active users of shopping apps surpassed 36 million, up 6% in the same given period'
 
 In this article, we will delve into the following  
->>>>> What Mobile Application Security is  
+> What Mobile Application Security is  
 > The importance of Mobile application security and case studies  
 > Top mobile applications threats  
 > Risk Factors and underlying circumstances  
