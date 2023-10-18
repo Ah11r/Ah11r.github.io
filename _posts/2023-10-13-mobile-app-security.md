@@ -9,7 +9,7 @@ toc: true
 
 We are in the digital era where the usage of mobile devices has skyrocketted. This has caused mobile applications to be an integral part of our lives as they help us perform our daily  tasks efficiently while staying connected.  
 
-According to a [survey by DataSparkle](https://www.datasparkle.net/home/pc/en/researchReport/index.html) that was published on [Africa Business Communities](https://africabusinesscommunities.com/africadata/africa-had-more-than-270-million-mobile-apps-users-as-of-december-2022-report/), 'the total number of monthly active users of mobile apps in Africa exceeded 270 million, a 14% increase compared to the beginning of the year by December 2022' where 'The number of active users of finance apps in Africa exceeded 73 million, an increase of 26%.  
+According to a [survey by DataSparkle](https://www.datasparkle.net/home/pc/en/researchReport/index.html) that was published on [Africa Business Communities](https://africabusinesscommunities.com/africadata/africa-had-more-than-270-million-mobile-apps-users-as-of-december-2022-report/), 'the total number of monthly active users of mobile apps in Africa exceeded 270 million in December 2022, a 14% increase compared to the beginning of the year' where 'The number of active users of finance apps in Africa exceeded 73 million, an increase of 26%.  
 The number of active users of shopping apps surpassed 36 million, up 6% in the same given period'
 
 In this article, we will delve into the following  
@@ -39,16 +39,16 @@ Bearing the fact that our mobile phones are just an arm-length away means that i
 2. Data leaks - This happen due to unregulated permissions granted to mobile applications when installing them. They collect 
 3. Open(unsecured) WIFI
 4. Spyware
-5. Apps with Malicious code
+5. Apps with Malicious code - malicious code is embedded in the apps mainly from third-party sources. This code is meant to steal data destroy and even take over the device. 
 
 
 # What are the risk factors and what is the price?
 Often, we as the users facilitate some of the attacks knowingly or unknowingly. Some of the underlying risk factors that are related to mobile appliation security include
-1. Mobile apps vulnerabilities
-2. Third Party libraries
-3. Authentication and authorization
-4. Data encryption
-5. User behaviour
+1. Mobile apps vulnerabilities - mobile applications can be prone to a host of weaknesses which attackers leverage to perform malicious activities. It is vital to ensure that the application and the integrations are upto date and the appropriate security patches are applied. 
+2. Third Party libraries - while third  party libraries are often used in mobile apps to add functionality or reduce development time. However, they also introduce security vulnerabilities into apps. It is important to carefully choose and vet third party libraries, and to keep them up to date with the latest security patches
+6. Authentication and authorization - use strong authentication mechanisms, such as strong passwords and multi-factor authentication. Mobile apps should also implement fine-grained authorization controls to ensure that users only have access to the data and resources they need.
+7. Data encryption - to protect sensitive data stored on mobile devices or transmitted over networks. Mobile apps should encrypt all sensitive data, including passwords, credit card numbers, and personal identification information.
+8. User behaviour - some of user behaviour that contribute in compromising mobile application includes downloading and nstalling malicious apps, clicking on malicious links, or entering sensitive information into suspicious websites
 
 # Mobile application security measures to employ
 Protecting mobile applications is a shared responsibility between the users and developers. Users have the great responsibility since they interact with the applications more. Some of the protective measures include  
