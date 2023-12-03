@@ -160,4 +160,4 @@ BAM/DAM:-Background Activity Monitor keeps a tab on the activity of backround ap
 
 	SYSTEM\CurrentControlSet\Services\dam\UserSettings\{SID}
 
-In Part 2 of this particular article, I will be discussing how I tackled the room questions using the Eric Zimmerman's tools.  This part 2 will be under the category [TryHackMe]().
+In Part 2 of this particular article, I will be discussing how I tackled the room questions using the Eric Zimmerman's tools.  This part 2 will be under the category [TryHackMe](https://ah11r.github.io/categories/tryhackme/).

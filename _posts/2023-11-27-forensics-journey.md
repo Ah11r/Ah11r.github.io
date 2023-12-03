@@ -45,7 +45,7 @@ This room introduced me to the various tools used for digital forensics process.
 2. [KAPE](https://tryhackme.com/room/kape) - `Kroll Artifact Parser and Extractor - used to automate collection and parsing of artifacts`
 3. [Autopsy](https://tryhackme.com/room/btautopsye0) - `open source forensics platform that helps analyze data from digital media `
 4. [Volatility](https://tryhackme.com/room/volatility) - `Memory analysis tool that spans across windows and linux`
-5. [Redline](https://tryhackme.com/room/btredlinejoxr3d) - incident response tool for gathering and analysis of forensic information
+5. [Redline](https://tryhackme.com/room/btredlinejoxr3d) - `incident response tool for gathering and analysis of forensic information`
 6. [Velociraptor](https://tryhackme.com/room/velociraptorhp) - `endpoint monitoring, forensics, response platform` 
 
 In the next article, I will be sharing my learning from [Windows Forensics 1](https://tryhackme.com/room/windowsforensics1)
