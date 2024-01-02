@@ -14,7 +14,7 @@ After clicking on it, you'll realize that a new disk drive appears in the file e
 Right-click and select _Install or run program from your media_
 ![img-desc](/assets/img/server/a2.png)
 
-This will bring a pop-up propmting us to select the setup type. For this exercise, we will use the _Typical_ option. However, you can also select _Complete_ or _Custom_ based on your needs.  
+This will bring a pop-up prompting us to select the setup type. For this exercise, we will use the _Typical_ option. However, you can also select _Complete_ or _Custom_ based on your needs.  
 Click _Next_
 ![img-desc](/assets/img/server/a3.png)
 
