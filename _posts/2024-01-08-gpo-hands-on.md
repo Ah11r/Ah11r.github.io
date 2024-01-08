@@ -4,7 +4,7 @@ date: 2024-01-07 19:38:43 +0300
 category: [Active Directory]
 tags: [gpo,desktop]
 ---
-# Hiding the Recyclebin Icon Using a Group Policy Object
+# Hiding the Recycle Bin Icon Using a Group Policy Object
 Having seen the power of group policy objects in the [previous]() article, let us see how to practically create and enforce one.
 In the Windows Server, open _Group Policy Management_ from the Tools tab.
 ![img-desc](/assets/img/GPO/gp1.png)
