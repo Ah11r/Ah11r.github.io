@@ -70,4 +70,4 @@ Event Viewer allows you to filter events and create custom views to focus on spe
 ### Summary:
 
 Windows Event Viewer is an invaluable tool for system administrators, IT professionals, and anyone looking to gain insights into their Windows computer's performance and health. By regularly checking event logs and understanding the information they contain, you can proactively address issues, troubleshoot problems, and ensure your system runs smoothly. Don't let this powerful utility go to waste; make Windows Event Viewer a part of your regular system maintenance routine.  
-In the next article we will deep dive into the various Event IDs, that a security professional should know.
+In the [next](https://ah11r.github.io/posts/eventlogexplained/) article we will deep dive into the various Event IDs, that a security professional should know.
