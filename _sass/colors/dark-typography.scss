@@ -34,7 +34,9 @@
   );
 
   /* Sidebar */
+  --site-title-color: #c0e9c4;
   --sidebar-bg: radial-gradient(circle, #01010c 0%, #1d1f27 100%);
+  --sidebar-border-color: rgb(236, 248, 8);
   --sidebar-muted-color: #49dcd5;
   --sidebar-active-color: rgb(255, 255, 255, 0.95);
   --sidebar-hover-bg: rgba(97, 95, 95, 0.33);
@@ -88,7 +90,7 @@
   --tag-border: rgb(236, 248, 8, 0.952);
   --tag-shadow: rgb(94, 144, 197);
   --search-tag-bg: var(--tag-bg);
-  --dash-color: rgb(63, 65, 68);
+  --dash-color: rgb(236, 248, 8);
 
   /* categories */
   --categories-border: rgba(236, 248, 8, 0.952);
