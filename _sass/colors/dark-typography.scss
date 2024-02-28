@@ -35,6 +35,7 @@
 
   /* Sidebar */
   --site-title-color: #ffffff;
+  --site-subtitle-color: #daf50d;
   --sidebar-bg: radial-gradient(square, #01012a 50%, #060a16 50%);
   --sidebar-border-color: rgb(236, 248, 8);
   --sidebar-muted-color: #daf50d;
@@ -45,7 +46,7 @@
   --avatar-border-color: rgba(236, 248, 8, 0.952);
 
   /* Topbar */
-  --topbar-bg: rgba(76, 76, 98, 0.877);
+  --topbar-bg: rgb(9, 9, 28);
   --topbar-text-color: var(--text-color);
   --search-wrapper-border-color: rgb(236, 248, 8, 0.952);
   --search-icon-color: rgb(100, 102, 105);
