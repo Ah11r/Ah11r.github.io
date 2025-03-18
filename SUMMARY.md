@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Sir Hiira](README.md)
+* [Whois Sir Hiira](README.md)
 * [Blogs](_posts/README.md)
   * [Your Guide to System Monitoring and Troubleshooting](_posts/2024-01-12-weventviewer.md)
   * [A Comprehensive Guide to System Monitoring](_posts/2024-01-13-eventlogexplained.md)
